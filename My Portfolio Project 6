@@ -1,16 +1,6 @@
 {
   "cells": [
     {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/isi1993/DRRR/blob/main/My%20Portfolio%20Project%206\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
       "cell_type": "code",
       "source": [],
       "metadata": {
@@ -10028,8 +10018,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNscmmRXpM9ny71mSl2wE2h",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyNscmmRXpM9ny71mSl2wE2h"
     },
     "kernelspec": {
       "display_name": "Python 3",
